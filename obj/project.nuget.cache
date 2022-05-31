@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mjjP4ReoQKWIoGgVykLTWYvcO++z05xPbFKZ56pIJjTbYS+9WVQGuoSAuvmTBXzvvAV+6trWoen9b1yYhnaoqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lando\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Trinity\\Trinity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lando\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
